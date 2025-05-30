@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git push check.md",
+                "file": "New website.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git push check"
+              "title": "New website"
             }
           }
         ]
@@ -178,7 +178,7 @@
   },
   "active": "9e9608dbcb2706db",
   "lastOpenFiles": [
-    "New website.md",
-    "Git push check.md"
+    "Git push check.md",
+    "New website.md"
   ]
 }
