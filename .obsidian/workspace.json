@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stress testing.md",
+                "file": "New website.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stress testing"
+              "title": "New website"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 386.5
   },
   "right": {
     "id": "475a4f1ae9f8df0f",
@@ -178,6 +178,22 @@
   },
   "active": "ddc923b67f859af9",
   "lastOpenFiles": [
+    "Stress testing.md",
+    "New website.md",
+    "Stress testing - Copy.md",
+    "Stress testing - Copy (13) - Copy - Copy - Copy.md",
+    "Stress testing - Copy (14) - Copy - Copy - Copy.md",
+    "Stress testing - Copy (14) - Copy.md",
+    "Stress testing - Copy (15) - Copy - Copy - Copy.md",
+    "Stress testing - Copy (15) - Copy.md",
+    "Stress testing - Copy (16) - Copy.md",
+    "Stress testing - Copy (18) - Copy - Copy.md",
+    "Stress testing - Copy (19) - Copy - Copy.md",
+    "Stress testing - Copy (2) - Copy - Copy - Copy - Copy - Copy.md",
+    "Stress testing - Copy (20) - Copy - Copy.md",
+    "Stress testing - Copy (3) - Copy - Copy - Copy - Copy.md",
+    "Stress testing - Copy (4) - Copy - Copy - Copy - Copy.md",
+    "Stress testing - Copy (5) - Copy - Copy - Copy - Copy.md",
     "Stress testing - Copy (57) - Copy - Copy - Copy - Copy.md",
     "Stress testing - Copy (71) - Copy - Copy - Copy.md",
     "Stress testing - Copy (56) - Copy - Copy - Copy - Copy.md",
@@ -187,22 +203,6 @@
     "Stress testing - Copy (54) - Copy - Copy - Copy - Copy.md",
     "Stress testing - Copy (68) - Copy - Copy - Copy.md",
     "Stress testing - Copy (53) - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (57) - Copy - Copy.md",
-    "Stress testing - Copy (67) - Copy - Copy - Copy.md",
-    "Stress testing - Copy (52) - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (29) - Copy - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (56) - Copy - Copy.md",
-    "Stress testing - Copy (66) - Copy - Copy - Copy.md",
-    "Stress testing - Copy (51) - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (28) - Copy - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (55) - Copy - Copy.md",
-    "Stress testing - Copy (65) - Copy - Copy - Copy.md",
-    "Stress testing - Copy (50) - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (27) - Copy - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (54) - Copy - Copy.md",
-    "Stress testing - Copy (64) - Copy - Copy - Copy.md",
-    "Stress testing - Copy (49) - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (26) - Copy - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (53) - Copy - Copy.md"
+    "Stress testing - Copy (57) - Copy - Copy.md"
   ]
 }
