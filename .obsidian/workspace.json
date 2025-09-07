@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sounds/readme.md",
+                "file": "pictures/19-12-12 Muriwai Gannet Colony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "19-12-12 Muriwai Gannet Colony"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -179,10 +179,23 @@
   },
   "active": "9e9608dbcb2706db",
   "lastOpenFiles": [
+    "pictures/21-5-25 Bluff Knoll.md",
+    "pictures/19-12-12 Muriwai Gannet Colony.md",
     "pictures/readme.md",
-    "sounds/readme.md",
-    "blog/readme.md",
+    "pictures/assets/Img2.jpg",
+    "pictures/assets/PXL_20240709_182744715.jpg",
+    "pictures/assets/PXL_20240707_173245044.jpg",
+    "pictures/assets/PXL_20240705_215141089.jpg",
+    "pictures/assets/PXL_20240623_191141618.jpg",
+    "pictures/assets/Img18.jpg",
+    "pictures/assets/Img19.jpg",
+    "pictures/assets/Img17.jpg",
+    "pictures/assets/Img16.jpg",
+    "pictures/assets/Img15.jpg",
+    "pictures/assets",
     "readme.md",
+    "blog/readme.md",
+    "sounds/readme.md",
     "Date check.md",
     "Date check again.md",
     "New website.md",
@@ -204,9 +217,6 @@
     "Stress testing - Copy (3) - Copy - Copy - Copy - Copy.md",
     "Stress testing - Copy (4) - Copy - Copy - Copy - Copy.md",
     "Stress testing - Copy (5) - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (57) - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (71) - Copy - Copy - Copy.md",
-    "Stress testing - Copy (56) - Copy - Copy - Copy - Copy.md",
-    "Stress testing - Copy (70) - Copy - Copy - Copy.md"
+    "Stress testing - Copy (57) - Copy - Copy - Copy - Copy.md"
   ]
 }
