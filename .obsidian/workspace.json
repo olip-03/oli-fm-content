@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "blog/readme.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,6 +179,11 @@
   },
   "active": "9e9608dbcb2706db",
   "lastOpenFiles": [
+    "blog/25-9-10 First.md",
+    "blog/25-9-7 Second.md",
+    "blog/25-7-1 Last.md",
+    "blog/readme.md",
+    "readme.md",
     "pictures/19-12-12 Muriwai Gannet Colony.md",
     "pictures/21-5-25 Bluff Knoll.md",
     "pictures/readme.md",
@@ -193,12 +198,7 @@
     "pictures/assets/Img16.jpg",
     "pictures/assets/Img15.jpg",
     "pictures/assets",
-    "readme.md",
-    "blog/readme.md",
     "sounds/readme.md",
-    "Date check.md",
-    "Date check again.md",
-    "New website.md",
     "pictures",
     "sounds",
     "blog",
